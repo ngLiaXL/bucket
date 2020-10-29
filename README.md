@@ -1,3 +1,3 @@
-# TEST 7 8 A B
+# TEST 7 8 A B C
 9
 10
